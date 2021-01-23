@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Slagr
+https://stream-6.mazana.tv/slagr.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Slagr 2
+https://stream-33.mazana.tv/slagr2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Slagr premium
+https://arenasportslovakia.ddns.net/hls/slager.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",HunterTV
+http://www.huntertv.cz/live/4-playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",SenziTV
+http://109.74.144.130/live/senzitest/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Natura TV SD
+http://media1.tvnatura.cz/live_out/1/live.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Natura TV HD
+http://media1.tvnatura.cz/live_out/3/live.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Natura TV FHD
+http://media1.tvnatura.cz/live_out/2/live.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",V1
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Polar
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Plzen TV
+http://vysilani.zaktv.cz/ptv/1/video.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",ZAK TV
+http://vysilani.zaktv.cz/zak/2790/video.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",RAJ TV
+http://80.87.208.154/dna-2827-tv-pc/hls/1001v3363.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",RTM+
+http://rtmplus.cz/live/1-playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Prima COOL
+http://92.62.234.223/104/mystream.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Prima LOVE
+http://92.62.234.223/101/mystream.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",TV Morava
+http://stream.redigy.cz:1934/tvm.flv
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Slager 2
+http://92.62.234.233/slagr2.m3u#.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Digisport 1
+http://84.42.140.147:8890/hdmi
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",o2 Sport
+http://84.42.140.148:8880/hdmi
