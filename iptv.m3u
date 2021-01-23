@@ -7,6 +7,94 @@ https://stream-33.mazana.tv/slagr2.m3u
 https://arenasportslovakia.ddns.net/hls/slager.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",HunterTV
 http://www.huntertv.cz/live/4-playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",SenziTV
+http://109.74.144.130/live/senzitest/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Natura TV SD
+http://media1.tvnatura.cz/live_out/1/live.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Natura TV HD
+http://media1.tvnatura.cz/live_out/3/live.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Natura TV FHD
+http://media1.tvnatura.cz/live_out/2/live.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",V1
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Polar
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Plzen TV
+http://vysilani.zaktv.cz/ptv/1/video.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",ZAK TV
+http://vysilani.zaktv.cz/zak/2790/video.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",RAJ TV
+http://80.87.208.154/dna-2827-tv-pc/hls/1001v3363.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",RTM+
+http://rtmplus.cz/live/1-playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Prima COOL
+http://92.62.234.223/104/mystream.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Prima LOVE
+http://92.62.234.223/101/mystream.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",TV Morava
+http://stream.redigy.cz:1934/tvm.flv
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Slager 2
+http://92.62.234.233/slagr2.m3u#.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Digisport 1
+http://84.42.140.147:8890/hdmi
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",o2 Sport
+http://84.42.140.148:8880/hdmi
+#EXTINF:-1,Czech Republic: Elektrika TV
+http://rtmp.elektrika.cz/live/myStream.s...ylist.m3u8
+#EXTINF:-1,Czech Republic: FashionTV Czech&Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1,Czech Republic: JimJam
+http://83.167.253.110:5000/live/jimjam/playlist.m3u8
+#EXTINF:-1,Czech Republic: Nova Action
+http://92.62.234.223/102/mystream.m3u8
+#EXTINF:-1,Czech Republic: Polar TV
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF:-1,Czech Republic: Praha TV
+https://stream.polar.cz/prahatv/prahatvl...ylist.m3u8
+#EXTINF:-1,Czech Republic: Prima
+http://83.167.253.110:5000/live/prima_hd/playlist.m3u8
+#EXTINF:-1,Czech Republic: Prima Cool
+http://92.62.234.223/104/mystream.m3u8
+#EXTINF:-1,Czech Republic: Prima Love
+http://92.62.234.223/101/mystream.m3u8
+#EXTINF:-1,Czech Republic: Prima Max
+http://70.32.0.9:5000/live/518/playlist.m3u8
+#EXTINF:-1,Czech Republic: Retro Music Television
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Czech Republic: Retro Music Television
+http://bit.ly/2m3sY3Y
+#EXTINF:-1,Czech Republic: Retro Music Television
+http://stream.mediawork.cz/retrotv//retr...98573.m3u8
+#EXTINF:-1,Czech Republic: Retro Music Television
+http://stream.mediawork.cz/retrotv//retr...33387.m3u8
+#EXTINF:-1,Czech Republic: Retro Music Television
+http://stream.mediawork.cz/retrotv//retr...ylist.m3u8
+#EXTINF:-1,Czech Republic: Retro Music Television
+http://stream.mediawork.cz/retrotv//retr...upoTopIptv
+#EXTINF:-1,Czech Republic: Retro Music Television
+http://stream.mediawork.cz/retrotv/retro...20907.m3u8
+#EXTINF:-1,Czech Republic: Retro Music Television
+http://stream.mediawork.cz/retrotv/retro...chile.m3u8
+#EXTINF:-1,Czech Republic: Retro Music Television
+http://stream.mediawork.cz/retrotv/retro...ylist.m3u8
+#EXTINF:-1,Czech Republic: RTM plus
+http://www.rtmplus.cz/live/1-playlist.m3u8
+#EXTINF:-1,Czech Republic: Východočeská TV
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1,Czech Republic: Óčko
+http://ocko-live.ssl.cdn.cra.cz/channels...ylist.m3u8
+#EXTINF:-1,Czech Republic: Óčko
+http://ocko-live.ssl.cdn.cra.cz/channels...ve_hq.m3u8
+#EXTINF:-1,Czech Republic: Óčko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels...ve_hq.m3u8
+#EXTINF:-1,Czech Republic: Óčko Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cr...ylist.m3u8
+#EXTINF:-1,Czech Republic: Óčko STAR
+http://ocko-live.ssl.cdn.cra.cz/channels...ve_hq.m3u8
+#EXTINF:-1,Czech Republic: Šlágr
+https://slagrtv-live-hls.ssl.cdn.cra.cz/...ve_hq.m3u8
+#EXTINF:-1,Czech Republic: Šlágr 2
+http://92.62.234.233/slagr2.m3u#.m3u8
 #EXTINF:-1,nova
 https://nova-live.ssl.cdn.cra.cz/channels/mcra/playlist/cze/live_hq.m3u8
 #EXTINF:-1,nova cinema
@@ -85,3 +173,200 @@ https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist/slo/live_hq.m3u8
 https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/slo/live_xq.m3u8
 #EXTINF:-1,nova_2
 https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist/slo.m3u8
+#EXTINF:-1,New channel - http://213.151.233.20:8000/dna-6069-tv-pc.m3u8
+http://213.151.233.20:8000/dna-6069-tv-pc.m3u8
+#EXTINF:-1,New channel - http://213.151.233.20:8000/dna-6071-tv-pc.m3u8
+http://213.151.233.20:8000/dna-6071-tv-pc.m3u8
+#EXTINF:-1,New channel - http://213.151.233.20:8000/dna-6110-tv-pc.m3u8
+http://213.151.233.20:8000/dna-6110-tv-pc.m3u8
+#EXTINF:-1,New channel - http://213.151.233.20:8000/dna-6129-tv-pc.m3u8
+http://213.151.233.20:8000/dna-6129-tv-pc.m3u8
+#EXTINF:-1,New channel - http://213.151.233.20:8000/dna-6179-tv-pc.m3u8
+http://213.151.233.20:8000/dna-6179-tv-pc.m3u8
+#EXTINF:-1,New channel - http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+#EXTINF:-1,New channel - http://213.151.233.20:8000/dna-6428-tv-pc.m3u8
+http://213.151.233.20:8000/dna-6428-tv-pc.m3u8
+#EXTINF:-1,
+Barrandov KRIMI | P
+http://82.99.131.55:9999/stream/channelid/805033125
+#EXTINF:-1,
+BARRANDOV TV | P
+http://82.99.131.55:9999/stream/channelid/566223488
+#EXTINF:-1,
+CNN Prima News
+http://82.99.131.55:9999/stream/channelid/1800809520
+[*]#EXTINF:-1,
+CRo D-DUR T2
+http://82.99.131.55:9999/stream/channelid/294724321
+#EXTINF:-1,
+CRo DVOJKA T2
+http://82.99.131.55:9999/stream/channelid/51479727
+#EXTINF:-1,
+CRo JAZZ T2
+http://82.99.131.55:9999/stream/channelid/888654495
+#EXTINF:-1,
+CRo PLUS T2
+http://82.99.131.55:9999/stream/channelid/65190015
+#EXTINF:-1,
+CRo RADIO JUNIOR T2
+http://82.99.131.55:9999/stream/channelid/1114676501
+#EXTINF:-1,
+CRo RADIO WAVE T2
+http://82.99.131.55:9999/stream/channelid/982983406
+#EXTINF:-1,
+CRo RADIOZURNAL T2
+http://82.99.131.55:9999/stream/channelid/1731989898
+#EXTINF:-1,
+CRo VLTAVA T2
+http://82.99.131.55:9999/stream/channelid/1914022830
+#EXTINF:-1,
+CS Mystery | T2
+http://82.99.131.55:9999/stream/channelid/1632720045
+#EXTINF:-1,
+CT 1 HD T2
+http://82.99.131.55:9999/stream/channelid/108093638
+#EXTINF:-1,
+CT 1 JM HD T2
+http://82.99.131.55:9999/stream/channelid/2046670491
+#EXTINF:-1,
+CT 1 SM HD T2
+http://82.99.131.55:9999/stream/channelid/358930011
+#EXTINF:-1,
+CT 2 HD T2
+http://82.99.131.55:9999/stream/channelid/2003644188
+#EXTINF:-1,
+CT 24 HD T2
+http://82.99.131.55:9999/stream/channelid/1435839813
+#EXTINF:-1,
+CT 3 HD T2 https://iptv.live
+http://82.99.131.55:9999/stream/channelid/1006794270
+#EXTINF:-1,
+CT Big Grin/art HD T2
+http://82.99.131.55:9999/stream/channelid/468448489
+#EXTINF:-1,
+CT sport HD T2
+http://82.99.131.55:9999/stream/channelid/1472454369
+#EXTINF:-1,
+GALERIE | T2
+http://82.99.131.55:9999/stream/channelid/1668636286
+#EXTINF:-1,
+JOJ Family | T2
+http://82.99.131.55:9999/stream/channelid/831693959
+#EXTINF:-1,
+KINO BARRANDOV
+http://82.99.131.55:9999/stream/channelid/816919781
+#EXTINF:-1,
+Kino Barrandov | P
+http://82.99.131.55:9999/stream/channelid/2101534101
+#EXTINF:-1,
+KLENOT TV | T2
+http://82.99.131.55:9999/stream/channelid/1641530871
+#EXTINF:-1,
+NASA TV UHD
+http://82.99.131.55:9999/stream/channelid/66920042
+#EXTINF:-1,
+Noe TV | P
+http://82.99.131.55:9999/stream/channelid/864311810
+#EXTINF:-1,
+Nova 2 | T2
+http://82.99.131.55:9999/stream/channelid/1271829864
+#EXTINF:-1,
+Nova Action | T2
+http://82.99.131.55:9999/stream/channelid/1476469926
+#EXTINF:-1,
+NOVA CINEMA | P
+http://82.99.131.55:9999/stream/channelid/1979382881
+#EXTINF:-1,
+Nova Cinema | T2
+http://82.99.131.55:9999/stream/channelid/217411360
+#EXTINF:-1,
+Nova Gold | T2
+http://82.99.131.55:9999/stream/channelid/850426129
+#EXTINF:-1,
+NOVA | P
+http://82.99.131.55:9999/stream/channelid/1250283167
+#EXTINF:-1,
+NOVA | T2
+http://82.99.131.55:9999/stream/channelid/17679593
+#EXTINF:-1,
+Nova | T2
+http://82.99.131.55:9999/stream/channelid/2050960246
+#EXTINF:-1,
+Ocko
+http://82.99.131.55:9999/stream/channelid/536396991
+#EXTINF:-1,
+Ocko STAR
+http://82.99.131.55:9999/stream/channelid/2128284214
+#EXTINF:-1,
+Prima
+http://82.99.131.55:9999/stream/channelid/22973548
+#EXTINF:-1,
+Prima +1
+http://82.99.131.55:9999/stream/channelid/1576114150
+#EXTINF:-1,
+Prima Comedy Central | T2
+http://82.99.131.55:9999/stream/channelid/1144765805
+#EXTINF:-1,
+Prima COOL
+http://82.99.131.55:9999/stream/channelid/1929955398
+#EXTINF:-1,
+Prima KRIMI
+http://82.99.131.55:9999/stream/channelid/1484765521
+#EXTINF:-1,
+Prima love
+http://82.99.131.55:9999/stream/channelid/1482520920
+#EXTINF:-1,
+Prima MAX
+http://82.99.131.55:9999/stream/channelid/183757276
+#EXTINF:-1,
+Prima ZOOM
+http://82.99.131.55:9999/stream/channelid/1732358414
+#EXTINF:-1,
+Radio Dechovka
+http://82.99.131.55:9999/stream/channelid/1304928143
+#EXTINF:-1,
+RADIO PROGLAS
+http://82.99.131.55:9999/stream/channelid/756617495
+#EXTINF:-1,
+REBEL | T2
+http://82.99.131.55:9999/stream/channelid/1716268901
+#EXTINF:-1,
+RELAX | T2
+http://82.99.131.55:9999/stream/channelid/1502358374
+#EXTINF:-1,
+Retro Music TV | T2
+http://82.99.131.55:9999/stream/channelid/1846754996
+#EXTINF:-1,
+TV
+http://82.99.131.55:9999/stream/channelid/245488368
+#EXTINF:-1,
+TV | P
+http://82.99.131.55:9999/stream/channelid/182175239
+#EXTINF:-1,
+Slagr 2 | P
+http://82.99.131.55:9999/stream/channelid/1940758724
+#EXTINF:-1,
+Slagr TV | P https://iptv.live
+http://82.99.131.55:9999/stream/channelid/1552309724
+#EXTINF:-1,
+Slagr TV | T2
+http://82.99.131.55:9999/stream/channelid/1954683595
+#EXTINF:-1,
+Slagr TV | T2 - MUX24
+http://82.99.131.55:9999/stream/channelid/1020747685
+#EXTINF:-1,
+SPORT 5 | T2
+http://82.99.131.55:9999/stream/channelid/1994868747
+#EXTINF:-1,
+TV Barrandov
+http://82.99.131.55:9999/stream/channelid/2132389401
+#EXTINF:-1,
+Tv NOE
+http://82.99.131.55:9999/stream/channelid/1191186089
+#EXTINF:-1,
+V1 | T2
+http://82.99.131.55:9999/stream/channelid/224018082
+#EXTINF:-1,
+BARRANDOV KRIMI
+http://82.99.131.55:9999/stream/channelid/452440973
