@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Slagr
+https://stream-6.mazana.tv/slagr.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Slagr 2
+https://stream-33.mazana.tv/slagr2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Slagr premium
+https://arenasportslovakia.ddns.net/hls/slager.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",HunterTV
+http://www.huntertv.cz/live/4-playlist.m3u8
